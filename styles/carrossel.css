@@ -11,6 +11,7 @@
 .swiper-slide img {
     width: 100%;
 }
+.descrição__imagem {width: 15%;}
 
 .swiper-button-prev,
 .swiper-button-next {
